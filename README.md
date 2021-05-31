@@ -10,7 +10,6 @@
 4.
 
 5.
-6.
 
 ## About The Project
 shdhsffhhhh
