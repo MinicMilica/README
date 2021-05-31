@@ -2,9 +2,8 @@
 
 ## Table of Contents
 1.About The Project
-Basic Passenger Service
-This application is created because of for easier passenger records. It contains tools for creating passenger profiles with basic information such as: first name, last name, passport id and email address.
-2.
+
+2.Usage 
 
 3.
 
@@ -13,7 +12,8 @@ This application is created because of for easier passenger records. It contains
 5.
 
 ## About The Project
-
+Basic Passenger Service
+This application is created because of for easier passenger records. It contains tools for creating passenger profiles with basic information such as: first name, last name, passport id and email address.
 
 
 
