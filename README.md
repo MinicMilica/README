@@ -27,8 +27,7 @@
 </details>
 
 ## About The Project
-This application was created for easier passenger records. With it we can create, delete and update profiles.  name, surname, email address and passport id.
-Profiles contain basic information about the passenger
+This application was created for easier passenger records. With it we can create, delete and update profiles. Profiles contain basic information about the passenger:
 * First and last name
 * Passport ID
 * Email address
