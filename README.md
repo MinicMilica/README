@@ -12,7 +12,7 @@
 5.
 
 ## About The Project
-This application is created because of easier passenger records. It contains tools for creating, deleteing, updateing passengers profiles. Profiles have  basic information about passenger such as: first name, last name, passport id and email address.
+This application is created because of easier passenger records. It contains tools for creating, deleteing and updateing passengers profiles. Profiles have basic informations about passenger such as: first name, last name, passport ID and email address.
 
 
 #### headling 4
