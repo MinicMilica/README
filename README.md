@@ -17,8 +17,17 @@ This application is created because of easier passenger records. It contains too
 
 ## Build With 
 Appslication is created with:
-*saffas
 
-*afsasffas
+*https://www.microsoft.com/en-us/sql-server/sql-server-2019
 
-*asfsafsfa
+*https://awesomeopensource.com/projects/visual-studio-code?categoryPage=48
+
+*https://angular.io/
+
+*https://nodejs.org/en/
+
+*https://code.visualstudio.com/
+
+*https://www.postman.com/
+
+*Web API
