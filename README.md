@@ -40,3 +40,16 @@ This appication is creatied with:
 * [Visual Code](https://code.visualstudio.com/)
 * [Angular 10](https://angular.io/)
 * Web API
+
+## Getting Started
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+## Usage
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+## Contact
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
