@@ -34,9 +34,9 @@ This application was created for easier passenger records. With it we can create
 
 ### Built With
 This appication is creatied with:
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Postman](https://getbootstrap.com)
+* [SQL 2019](https://jquery.com)
+* [Vusal Studio](https://laravel.com)
+* [Visual Code](https://getbootstrap.com)
+* [Angular 10](https://jquery.com)
+* Web API
