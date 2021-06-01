@@ -50,6 +50,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Contact
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Milica Minić - [@milica_096](https://www.instagram.com/milicaa_096/?hl=sr) - minic.milica266@gmail.com
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
